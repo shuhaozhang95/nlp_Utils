@@ -1,0 +1,6 @@
+model/Opus-MT/eng-zho/*
+model/Opus-MT/zho-eng/*
+.DS_Store
+data_argument/.DS_Store
+data_argument/.ipynb_checkpoints/*
+**/__pycache__/
